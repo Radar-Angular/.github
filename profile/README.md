@@ -1,4 +1,4 @@
-# RadarFarma - Front-end
+# RadarFarma
 
 Projeto desenvolvido como parte da formação "Código do Futuro - Farmarcas".
 
